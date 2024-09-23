@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854540723228",
+    "project_id": "showbox-firebase",
+    "storage_bucket": "showbox-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854540723228:android:61b278b856da08005aebd9",
+        "android_client_info": {
+          "package_name": "com.example.showbox_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qi_Xhdgd7MYG7zhyhWqkJBkD_Dl0RpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
